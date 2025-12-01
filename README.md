@@ -62,6 +62,8 @@ npm run
 
 ------------------------------------------------------------------------
 
-## 📄 License
+## 🔖 License
 
-MIT License.
+This project is licensed under the **MIT License** — free for personal and commercial use.
+
+📜 [Read Full License →](LICENSE)
